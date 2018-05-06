@@ -11,15 +11,14 @@ réalisé en deux jours dans le cadre d'un projet Semi-Encadré par [github du s
 
 
 ### Acceuil
-![N|Solid](./assets/accueil.png =300x)
+![](./assets/accueil.png)
 
 ### recherche d'une video
-![N|Solid](./assets/search.png =300x)
-
+![](./assets/search.png)
 
 ### verif Like a l'appuie d'une video
-![N|Solid](./assets/verifLike.png =300x)
+![](./assets/verifLike.png)
 
 
 ###  page des likes
-![N|Solid](./assets/pageFavorite.png =300x)
+![](./assets/pageFavorite.png)
